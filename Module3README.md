@@ -52,8 +52,8 @@ To build an inheritance-based Java program that calculates the final price of go
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: Nithilan S
+RegisterNumber: 212223240108
 */
 ```
 
@@ -212,8 +212,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: Nithilan S
+RegisterNumber: 212223240108
 */
 ```
 
@@ -320,8 +320,8 @@ To write a Java program using an abstract class GameScore with subclasses Arcade
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: Nithilan S
+RegisterNumber: 212223240108
 */
 ```
 
@@ -424,8 +424,8 @@ To implement bots that analyze temperature data and predict weather conditions b
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: Nithilan S
+RegisterNumber: 212223240108
 */
 ```
 
@@ -503,8 +503,8 @@ To demonstrate accessing an inner class from an outer class in Java.
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: Nithilan S
+RegisterNumber: 212223240108
 */
 ```
 
@@ -572,8 +572,8 @@ To convert string inputs into integers using the wrapper class and perform addit
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: Vikaash K S
-RegisterNumber: 212223240179
+Developed by: Nithilan S
+RegisterNumber: 212223240108
 */
 ```
 
